@@ -64,7 +64,7 @@
             // label1
             // 
             this.label1.BackColor = System.Drawing.Color.CornflowerBlue;
-            this.label1.Font = new System.Drawing.Font("NewsGoth BdXCn BT", 22.25F, System.Drawing.FontStyle.Italic);
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 22.25F, System.Drawing.FontStyle.Italic);
             this.label1.ForeColor = System.Drawing.Color.DarkBlue;
             this.label1.Image = ((System.Drawing.Image)(resources.GetObject("label1.Image")));
             this.label1.Location = new System.Drawing.Point(-1, 0);
@@ -78,33 +78,33 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("NewsGoth BdXCn BT", 14.25F);
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F);
             this.label2.Location = new System.Drawing.Point(16, 103);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(88, 22);
+            this.label2.Size = new System.Drawing.Size(113, 24);
             this.label2.TabIndex = 5;
             this.label2.Text = "AntiPasto $7";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("NewsGoth BdXCn BT", 14.25F);
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F);
             this.label3.Location = new System.Drawing.Point(16, 139);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(63, 22);
+            this.label3.Size = new System.Drawing.Size(80, 24);
             this.label3.TabIndex = 6;
             this.label3.Text = "Pasta $9";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("NewsGoth BdXCn BT", 14.25F);
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F);
             this.label4.Location = new System.Drawing.Point(16, 171);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(69, 22);
+            this.label4.Size = new System.Drawing.Size(89, 24);
             this.label4.TabIndex = 7;
             this.label4.Text = "Pizza $12";
             // 
@@ -112,7 +112,7 @@
             // 
             this.newCoustomerButton.BackColor = System.Drawing.Color.CornflowerBlue;
             this.newCoustomerButton.FlatAppearance.BorderColor = System.Drawing.Color.Green;
-            this.newCoustomerButton.Font = new System.Drawing.Font("NewsGoth BdXCn BT", 12.25F);
+            this.newCoustomerButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.25F);
             this.newCoustomerButton.Location = new System.Drawing.Point(363, 529);
             this.newCoustomerButton.Margin = new System.Windows.Forms.Padding(4);
             this.newCoustomerButton.Name = "newCoustomerButton";
@@ -126,7 +126,7 @@
             // 
             this.printReciptButton.BackColor = System.Drawing.Color.CornflowerBlue;
             this.printReciptButton.FlatAppearance.BorderColor = System.Drawing.Color.Green;
-            this.printReciptButton.Font = new System.Drawing.Font("NewsGoth BdXCn BT", 12.25F);
+            this.printReciptButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.25F);
             this.printReciptButton.Location = new System.Drawing.Point(41, 208);
             this.printReciptButton.Margin = new System.Windows.Forms.Padding(4);
             this.printReciptButton.Name = "printReciptButton";
@@ -140,7 +140,7 @@
             // 
             this.cashBackButton.BackColor = System.Drawing.Color.CornflowerBlue;
             this.cashBackButton.FlatAppearance.BorderColor = System.Drawing.Color.Green;
-            this.cashBackButton.Font = new System.Drawing.Font("NewsGoth BdXCn BT", 12.25F);
+            this.cashBackButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.25F);
             this.cashBackButton.Location = new System.Drawing.Point(41, 429);
             this.cashBackButton.Margin = new System.Windows.Forms.Padding(4);
             this.cashBackButton.Name = "cashBackButton";
@@ -153,62 +153,62 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("NewsGoth BdXCn BT", 13.25F);
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.25F);
             this.label5.Location = new System.Drawing.Point(16, 262);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(58, 21);
+            this.label5.Size = new System.Drawing.Size(76, 22);
             this.label5.TabIndex = 11;
             this.label5.Text = "Subtotal";
             // 
             // label45
             // 
             this.label45.AutoSize = true;
-            this.label45.Font = new System.Drawing.Font("NewsGoth BdXCn BT", 13.25F);
+            this.label45.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.25F);
             this.label45.Location = new System.Drawing.Point(16, 297);
             this.label45.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label45.Name = "label45";
-            this.label45.Size = new System.Drawing.Size(29, 21);
+            this.label45.Size = new System.Drawing.Size(41, 22);
             this.label45.TabIndex = 12;
             this.label45.Text = "Tax";
             // 
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("NewsGoth BdXCn BT", 13.25F);
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.25F);
             this.label7.Location = new System.Drawing.Point(16, 336);
             this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(39, 21);
+            this.label7.Size = new System.Drawing.Size(51, 22);
             this.label7.TabIndex = 13;
             this.label7.Text = "Total";
             // 
             // label
             // 
             this.label.AutoSize = true;
-            this.label.Font = new System.Drawing.Font("NewsGoth BdXCn BT", 12.25F);
+            this.label.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.25F);
             this.label.Location = new System.Drawing.Point(16, 381);
             this.label.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label.Name = "label";
-            this.label.Size = new System.Drawing.Size(47, 20);
+            this.label.Size = new System.Drawing.Size(68, 22);
             this.label.TabIndex = 17;
             this.label.Text = "Tender";
             // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("NewsGoth BdXCn BT", 12.25F);
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.25F);
             this.label6.Location = new System.Drawing.Point(16, 504);
             this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(65, 20);
+            this.label6.Size = new System.Drawing.Size(91, 20);
             this.label6.TabIndex = 18;
             this.label6.Text = "Cash Back";
             // 
             // cashBackLabel
             // 
-            this.cashBackLabel.Font = new System.Drawing.Font("NewsGoth BdXCn BT", 13.25F);
-            this.cashBackLabel.Location = new System.Drawing.Point(88, 502);
+            this.cashBackLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.25F);
+            this.cashBackLabel.Location = new System.Drawing.Point(123, 502);
             this.cashBackLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.cashBackLabel.Name = "cashBackLabel";
             this.cashBackLabel.Size = new System.Drawing.Size(133, 30);
@@ -216,7 +216,7 @@
             // 
             // totalLabel
             // 
-            this.totalLabel.Font = new System.Drawing.Font("NewsGoth BdXCn BT", 10.25F);
+            this.totalLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
             this.totalLabel.Location = new System.Drawing.Point(109, 333);
             this.totalLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.totalLabel.Name = "totalLabel";
@@ -235,7 +235,7 @@
             // 
             // taxLabel
             // 
-            this.taxLabel.Font = new System.Drawing.Font("NewsGoth BdXCn BT", 10.25F);
+            this.taxLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
             this.taxLabel.Location = new System.Drawing.Point(109, 300);
             this.taxLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.taxLabel.Name = "taxLabel";
@@ -253,7 +253,7 @@
             // 
             // subtotalLabel
             // 
-            this.subtotalLabel.Font = new System.Drawing.Font("NewsGoth BdXCn BT", 10.25F);
+            this.subtotalLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
             this.subtotalLabel.Location = new System.Drawing.Point(109, 265);
             this.subtotalLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.subtotalLabel.Name = "subtotalLabel";
@@ -262,7 +262,7 @@
             // 
             // tenderTextBox
             // 
-            this.tenderTextBox.Location = new System.Drawing.Point(109, 377);
+            this.tenderTextBox.Location = new System.Drawing.Point(124, 381);
             this.tenderTextBox.Margin = new System.Windows.Forms.Padding(4);
             this.tenderTextBox.Name = "tenderTextBox";
             this.tenderTextBox.Size = new System.Drawing.Size(132, 23);
@@ -272,7 +272,7 @@
             // 
             this.reciptButton.BackColor = System.Drawing.Color.CornflowerBlue;
             this.reciptButton.FlatAppearance.BorderColor = System.Drawing.Color.Green;
-            this.reciptButton.Font = new System.Drawing.Font("NewsGoth BdXCn BT", 12.25F);
+            this.reciptButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.25F);
             this.reciptButton.Location = new System.Drawing.Point(41, 543);
             this.reciptButton.Name = "reciptButton";
             this.reciptButton.Size = new System.Drawing.Size(180, 46);
@@ -295,7 +295,7 @@
             // reciptPrintLabel
             // 
             this.reciptPrintLabel.BackColor = System.Drawing.Color.Cornsilk;
-            this.reciptPrintLabel.Location = new System.Drawing.Point(346, 122);
+            this.reciptPrintLabel.Location = new System.Drawing.Point(346, 138);
             this.reciptPrintLabel.Name = "reciptPrintLabel";
             this.reciptPrintLabel.Size = new System.Drawing.Size(233, 353);
             this.reciptPrintLabel.TabIndex = 29;
@@ -303,7 +303,7 @@
             // 
             // antipastoUpDown
             // 
-            this.antipastoUpDown.Location = new System.Drawing.Point(121, 101);
+            this.antipastoUpDown.Location = new System.Drawing.Point(136, 103);
             this.antipastoUpDown.Maximum = new decimal(new int[] {
             9,
             0,
@@ -315,7 +315,7 @@
             // 
             // pastaUpDown
             // 
-            this.pastaUpDown.Location = new System.Drawing.Point(121, 138);
+            this.pastaUpDown.Location = new System.Drawing.Point(136, 139);
             this.pastaUpDown.Maximum = new decimal(new int[] {
             9,
             0,
@@ -327,7 +327,7 @@
             // 
             // pizzaUpDown
             // 
-            this.pizzaUpDown.Location = new System.Drawing.Point(121, 171);
+            this.pizzaUpDown.Location = new System.Drawing.Point(136, 174);
             this.pizzaUpDown.Maximum = new decimal(new int[] {
             9,
             0,
@@ -349,9 +349,9 @@
             // youreWrongLabel
             // 
             this.youreWrongLabel.BackColor = System.Drawing.Color.CornflowerBlue;
-            this.youreWrongLabel.Location = new System.Drawing.Point(214, 493);
+            this.youreWrongLabel.Location = new System.Drawing.Point(253, 493);
             this.youreWrongLabel.Name = "youreWrongLabel";
-            this.youreWrongLabel.Size = new System.Drawing.Size(278, 31);
+            this.youreWrongLabel.Size = new System.Drawing.Size(365, 31);
             this.youreWrongLabel.TabIndex = 34;
             // 
             // reciptLabel

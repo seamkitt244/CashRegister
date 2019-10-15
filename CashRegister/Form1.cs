@@ -122,28 +122,46 @@ namespace CashRegister
 
             g.DrawString("3362 Bloor St. Etobicoke, ON  " + tendered.ToString("C"), reciptFont, blackBrush, 0, 240);
 
-            g.DrawString("   Thank You For Eating \n\n With Us Today", reciptFont, blackBrush, 0, 280);
+            g.DrawString("   Thank You For Eating \n\n    With Us Today", reciptFont, blackBrush, 0, 280);
         }
         private void NewCoustomerButton_Click(object sender, EventArgs e)
         {
             // making all of the labels, vars, up downs, and textboxes = nothing or zero so that the register is reset 
             numAntipasto=0;
+            
             numPasta=0 ;
+            
             numPizza=0;
+            
             subTotalPrice=0;
+            
             taxAmount=0;
+            
             totalPrice=0;
+            
             tendered=0;
+            
             cashBack=0;
+            
             antipastoUpDown.Value = 0;
+            
             pastaUpDown.Value = 0;
+            
             pizzaUpDown.Value = 0 ;
+            
             subtotalLabel.Text = " ";
+            
             taxLabel.Text = " ";
+            
             totalLabel.Text = " ";
+            
             tenderTextBox.Text = "";
+            
             cashBackLabel.Text = "";
+            
             reciptPrintLabel.Text = " ";
+            
+            youreWrongLabel.Text = " ";
         }
     }
 }
